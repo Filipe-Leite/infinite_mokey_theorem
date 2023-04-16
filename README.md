@@ -13,7 +13,7 @@ Tracei um roteiro de estudos. Pensei inclusive em fazer uma classe "Floresta" e 
 
 Why Infinite Monkey? What is this project?
 
-The inicial objective was simulate the Inifinite Monkey Theorem for study Recursion and Object Orientation Programming. But the memory was broken by the almost infinite
+The initial objective was simulate the Inifinite Monkey Theorem for study Recursion and Object Orientation Programming. But the memory was broken by the almost infinite
 loop, when it tried to wrote a simple word like "banana".
 
 I drew up a study itinerary. I thought about creating a "Forest" class and choosing a "Monkey" hacked instance that could write a word or a text first, but aparently it isn't possible. In the future the project should be an algorithm based on the theory of evolution using natural selection to hack the "monkey" instance. But now i don't know how i could do this.
