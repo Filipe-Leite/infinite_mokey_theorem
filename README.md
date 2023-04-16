@@ -7,7 +7,7 @@ O que é o Teorema do Macaco Infinito?
 
 O que é o projeto?
 
-O objetivo inicial do projeto era simular o Teorema do Macaco Infinito para estudar recursão e orientação a objetos. Porém, aparentemente, a memória não suporta o fazer esse loop com uma simples palavra como "banana", pois são muitas tentativas até que a instância do Objeto Macaco consiga escrever aleatoriamente a palavra escolhida.
+O objetivo inicial do projeto era simular o Teorema do Macaco Infinito para estudar recursão e orientação a objetos. Porém, aparentemente, a memória não suporta fazer esse loop com uma simples palavra como "banana", pois são muitas tentativas até que a instância do Objeto Macaco consiga escrever aleatoriamente a palavra escolhida.
 
 Tracei um roteiro de estudos. Pensei inclusive em fazer uma classe "Floresta" e escolher uma determinada instância de "Macaco" para ser hackeada e conseguir escrever primeiro que os outros macacos da instância da "Floresta". Futuramente o projeto deveria ser um algorítmo baseado na teoria da evolução utilizando a "seleção natural" para hackear a instância "macaco".
 
